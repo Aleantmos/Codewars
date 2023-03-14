@@ -1,4 +1,4 @@
-package Seven_kyu;
+package algorithms;
 
 public class MultiplesOf3And5 {
 

@@ -1,8 +1,4 @@
-package Seven_kyu;
-
-import java.math.BigDecimal;
-import java.math.BigInteger;
-import java.util.Scanner;
+package algorithms;
 
 public class NarcissisticNumber {
     public static boolean isNarcissistic(int number) {

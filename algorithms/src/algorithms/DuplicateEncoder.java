@@ -1,4 +1,4 @@
-package Seven_kyu;
+package algorithms;
 
 import java.util.BitSet;
 
