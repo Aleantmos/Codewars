@@ -1,17 +1,12 @@
-import fundamentals.BuildATower;
+import algorithms.DrivingSchoolS2;
 
-import java.util.Arrays;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
 
-
-        String[] strings = BuildATower.buildPyramidTower(6);
-
-        for (int i = 0; i < strings.length; i++) {
-
-            System.out.println(strings[i]);
-
-        }
+        int cost = DrivingSchoolS2.cost(273);
+        System.out.println(cost);
     }
 }
